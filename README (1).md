@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Tushan Kumar Sinha
-* **Registration Number:** 24BCE10215
+* **Name:** Sachindra Singh
+* **Registration Number:** 24BSA10221
 * **Course:** Open Source Software
 * **Chosen Software:** Git
 
